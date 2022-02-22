@@ -1,4 +1,4 @@
-# freyala-wallet
+# GameFi Crossing wallet
 
 ## Project setup
 ```
